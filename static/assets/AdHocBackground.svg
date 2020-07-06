@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="1000" height="1000">
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 150px;fill: #ffffff;font-weight: 400;font-family: "PermanentMarker-Regular", "Permanent Marker" } 
+		.shp1 { fill: none;stroke: #ffffff;stroke-width: 28 } 
+	</style>
+	<text id="AD " style="transform: matrix(1,0,0,1,144.133,209.617)" >
+		<tspan x="0" y="0" class="txt0">AD</tspan>
+	</text>
+	<text id="HOC " style="transform: matrix(1,0,0,1,98.039,337.703)" >
+		<tspan x="0" y="0" class="txt0">HOC</tspan>
+	</text>
+	<path id="Shape 1" class="shp1" d="M242.5 459C134.39 459 47 368.04 47 255.5C47 142.96 134.39 52 242.5 52C350.61 52 438 142.96 438 255.5C438 368.04 350.61 459 242.5 459Z" />
+	<path id="Shape 2" class="shp1" d="M0 0L500 0L500 51L0 51L0 0Z" />
+	<path id="Shape 3" class="shp1" d="M0 455L492 455L492 500L0 500L0 455Z" />
+</svg>
